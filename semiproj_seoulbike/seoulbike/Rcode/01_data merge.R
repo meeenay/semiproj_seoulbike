@@ -1,5 +1,5 @@
 getwd()
-setwd("C:/Users/student/Desktop/seimi/ssemi_proj/data_seoulbike")
+setwd("C:/Users/student/Desktop/seimi/ssemi_proj/seoulbike/data")
 library(readxl)
 library(stringr)
 library(dplyr)
